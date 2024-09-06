@@ -1,0 +1,2 @@
+﻿
+opentele @ git+https://github.com/serveroid/opentele@db002b52e4e01fc826b19690cab8ba1f1320f040
